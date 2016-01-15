@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/iCCUT-Server-Flask$Server.coverage" NAME="Server Coverage Results" MODIFIED="1449202646520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iCCUT-Server-Flask$Server.coverage" NAME="Server Coverage Results" MODIFIED="1450322652164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,36 +28,21 @@
       <file leaf-file-name="Server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70823246">
-              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.47727272">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="e#15#38#0" expanded="true" />
-                <marker date="1449202875000" expanded="true" signature="547:591" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="547:601" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="547:602" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="547:603" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="547:605" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="672:730" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="1441:1501" placeholder="select * fro..FreeNews..." />
-                <marker date="1449202875000" expanded="true" signature="1441:1505" placeholder="select * fro..FreeNews..." />
-                <marker date="1449202875000" expanded="true" signature="2161:2211" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="2161:2224" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449202875000" expanded="true" signature="2161:2238" placeholder="select * fro..FreeVideo..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mysql.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="14" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="14" />
-              <folding>
-                <marker date="1449125809000" expanded="true" signature="444:487" placeholder="insert INTO ..." />
-                <marker date="1449125809000" expanded="true" signature="720:743" placeholder="select * fro..FreeVideo..." />
-                <marker date="1449125809000" expanded="true" signature="959:1011" placeholder="insert into ..." />
-                <marker date="1449125809000" expanded="true" signature="1303:1350" placeholder="insert into ..." />
+                <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+                <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+                <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+                <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
               </folding>
             </state>
           </provider>
@@ -88,10 +73,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="657" />
-    <option name="y" value="121" />
+    <option name="x" value="860" />
+    <option name="y" value="307" />
     <option name="width" value="1400" />
-    <option name="height" value="1300" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -116,6 +101,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,20 +110,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iCCUT-Server-Flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iCCUT-Server-Flask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,6 +120,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -368,6 +344,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d34141b2-0e97-4fd1-ae77-444d1f7b902e" name="Default" comment="" />
@@ -378,29 +357,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="121" width="1400" height="1300" extended-state="0" />
+    <frame x="860" y="307" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2533137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21428572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29304636" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26730487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21428572" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27874017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -413,20 +400,164 @@
     <entry file="file://$PROJECT_DIR$/Server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CCUTSpider/ParserPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
-            <marker date="1449202875000" expanded="true" signature="547:591" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:601" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:602" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:603" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:605" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="672:730" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="1441:1501" placeholder="select * fro..FreeNews..." />
-            <marker date="1449202875000" expanded="true" signature="1441:1505" placeholder="select * fro..FreeNews..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2211" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2224" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2238" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
           </folding>
         </state>
       </provider>
@@ -436,10 +567,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
           <folding>
-            <marker date="1449125809000" expanded="true" signature="444:487" placeholder="insert INTO ..." />
-            <marker date="1449125809000" expanded="true" signature="720:743" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449125809000" expanded="true" signature="959:1011" placeholder="insert into ..." />
-            <marker date="1449125809000" expanded="true" signature="1303:1350" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
@@ -448,40 +579,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4879725">
           <caret line="403" column="29" selection-start-line="403" selection-start-column="29" selection-end-line="403" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="14" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="14" />
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
-            <marker date="1449125809000" expanded="true" signature="444:487" placeholder="insert INTO ..." />
-            <marker date="1449125809000" expanded="true" signature="720:743" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449125809000" expanded="true" signature="959:1011" placeholder="insert into ..." />
-            <marker date="1449125809000" expanded="true" signature="1303:1350" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert INTO ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1449125809000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CCUTSpider/ParserPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70823246">
-          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.47727272">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
-            <marker date="1449202875000" expanded="true" signature="547:591" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:601" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:602" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:603" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="547:605" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="672:730" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="1441:1501" placeholder="select * fro..FreeNews..." />
-            <marker date="1449202875000" expanded="true" signature="1441:1505" placeholder="select * fro..FreeNews..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2211" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2224" placeholder="select * fro..FreeVideo..." />
-            <marker date="1449202875000" expanded="true" signature="2161:2238" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:596" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:606" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:607" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:608" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="552:610" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="677:735" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1556" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="1496:1560" placeholder="select * fro..FreeNews..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2316" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2329" placeholder="select * fro..FreeVideo..." />
+            <marker date="1449406343000" expanded="true" signature="2266:2343" placeholder="select * fro..FreeVideo..." />
           </folding>
         </state>
       </provider>

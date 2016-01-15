@@ -6,7 +6,6 @@ import mysql
 
 
 app = Flask(__name__)
-db = mysql.Mysql()
 #每页显示数
 pageCount = 20
 
@@ -17,6 +16,8 @@ def start():
 
 @app.route('/iCCUT/MediaList', methods=['POST','GET'])
 def getMediaList():
+
+    db = mysql.Mysql()
 
     try:
         index = request.args.get('index')
@@ -40,6 +41,8 @@ def getMediaList():
             ji = {"title": item[0],"url":item[1]}
             result.append(ji)
 
+        db.conn.close()
+
         if len(result) == 0:
             return getBaseReturnValue(data=result,msg="没有更多数据!",code=False)
         else:
@@ -52,6 +55,9 @@ def getMediaList():
 
 @app.route('/iCCUT/NewsList', methods=['POST','GET'])
 def getNewsList():
+
+    db = mysql.Mysql()
+
     try:
         index = request.args.get('index')
 
@@ -67,6 +73,8 @@ def getNewsList():
         for item in result_mysql:
             result.append({"title":item[0],"time":item[1],"url":item[2]})
 
+        db.conn.close()
+
         if len(result) == 0:
             return getBaseReturnValue(data=result,msg="没有更多数据!",code=False)
         else:
@@ -78,6 +86,9 @@ def getNewsList():
 
 @app.route('/iCCUT/SearchList', methods=['POST','GET'])
 def getSearchList():
+
+    db = mysql.Mysql()
+
     try:
         keyword = request.args.get('keyword')
 
@@ -88,6 +99,8 @@ def getSearchList():
         result = []
         for item in result_mysql:
             result.append({"title":item[0],"url":item[1]})
+
+        db.conn.close()
 
         return getBaseReturnValue(data=result,msg='OK',code=True)
     except KeyError,e:
