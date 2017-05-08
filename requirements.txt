@@ -1,0 +1,4 @@
+Flask==0.10.1
+Flask-SQLAlchemy==0.16
+Flask-Script==0.5.3
+BeautifulSoup
